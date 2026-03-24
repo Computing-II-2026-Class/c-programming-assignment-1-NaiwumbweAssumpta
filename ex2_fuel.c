@@ -3,7 +3,8 @@
 
 #include <stdio.h>
 
-int main(void) {
+int main(void)
+{
     float distance_km;
     float fuel_litres;
     float fuel_efficiency;
