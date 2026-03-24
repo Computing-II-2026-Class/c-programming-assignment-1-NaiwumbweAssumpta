@@ -3,7 +3,8 @@
 
 #include <stdio.h>
 
-int main(void) {
+int main(void)
+{
     float amount_to_send;
     float fee_percent;
     float fee_amount;
